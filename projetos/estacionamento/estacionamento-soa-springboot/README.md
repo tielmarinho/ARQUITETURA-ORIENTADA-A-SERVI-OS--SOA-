@@ -24,7 +24,7 @@ uma API REST de **Estacionamento** com CRUD de veículos e fluxo **check-in / ch
 3. Execute:
    ```bash
    mvn clean package
-   mvn spring-boot:run
+   mvn spring-boot:run -Dspring-boot.run.profiles=sid,debug -Dspring-boot.run.fork=false
    ```
 4. Acesse: `http://localhost:8080/swagger-ui.html`
 
