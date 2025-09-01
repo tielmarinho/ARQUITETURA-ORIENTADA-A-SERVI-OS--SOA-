@@ -1,0 +1,14 @@
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\domain\Ticket.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\domain\TicketStatus.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\domain\Veiculo.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\EstacionamentoApplication.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\repository\TicketRepository.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\repository\VeiculoRepository.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\service\TicketService.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\service\VeiculoService.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\ApiExceptionHandler.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\dto\CheckInRequest.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\dto\TicketResponse.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\dto\VeiculoDTO.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\TicketController.java
+C:\Users\Public\repositorio\ARQUITETURA-ORIENTADA-A-SERVI-OS--SOA-\projetos\estacionamento\estacionamento-soa-springboot\src\main\java\br\edu\fiap\soa\estacionamento\web\VeiculoController.java

@@ -1,0 +1,17 @@
+br\edu\fiap\soa\estacionamento\web\dto\CheckInRequest.class
+br\edu\fiap\soa\estacionamento\web\VeiculoController.class
+br\edu\fiap\soa\estacionamento\repository\TicketRepository.class
+br\edu\fiap\soa\estacionamento\domain\TicketStatus.class
+br\edu\fiap\soa\estacionamento\web\dto\VeiculoDTO.class
+br\edu\fiap\soa\estacionamento\EstacionamentoApplication.class
+br\edu\fiap\soa\estacionamento\repository\VeiculoRepository.class
+br\edu\fiap\soa\estacionamento\service\VeiculoService.class
+br\edu\fiap\soa\estacionamento\web\TicketController.class
+br\edu\fiap\soa\estacionamento\web\dto\TicketResponse$TicketResponseBuilder.class
+br\edu\fiap\soa\estacionamento\domain\Ticket$TicketBuilder.class
+br\edu\fiap\soa\estacionamento\domain\Veiculo.class
+br\edu\fiap\soa\estacionamento\web\ApiExceptionHandler.class
+br\edu\fiap\soa\estacionamento\service\TicketService.class
+br\edu\fiap\soa\estacionamento\web\dto\TicketResponse.class
+br\edu\fiap\soa\estacionamento\domain\Veiculo$VeiculoBuilder.class
+br\edu\fiap\soa\estacionamento\domain\Ticket.class

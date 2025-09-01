@@ -1,0 +1,193 @@
+{
+  "info": {
+    "name": "API Estacionamento (SOA)",
+    "_postman_id": "b1c6d7a8-1234-5678-9abc-def012345678",
+    "description": "Coleção de requests para a API de Estacionamento (Spring Boot + Oracle + Swagger).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Listar Veículos",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Accept",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/veiculos",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "veiculos"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Criar Veículo",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"placa\": \"ABC-1D23\", \"modelo\": \"Fiat Argo 1.3\", \"cor\": \"Preto\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/veiculos",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "veiculos"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Obter Veículo",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Accept",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/veiculos/1",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "veiculos",
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Atualizar Veículo",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"modelo\": \"Fiat Argo 1.3 Drive\", \"cor\": \"Prata\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/veiculos/1",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "veiculos",
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Excluir Veículo",
+      "request": {
+        "method": "DELETE",
+        "url": {
+          "raw": "{{baseUrl}}/api/veiculos/1",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "veiculos",
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Check-in",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"placa\": \"XYZ-9Z99\", \"modelo\": \"HR-V\", \"cor\": \"Branco\", \"vaga\": \"A15\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/tickets/checkin",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "tickets",
+            "checkin"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tickets Abertos",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/api/tickets/abertos",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "tickets",
+            "abertos"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Check-out (ID=1)",
+      "request": {
+        "method": "POST",
+        "url": {
+          "raw": "{{baseUrl}}/api/tickets/1/checkout",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "tickets",
+            "1",
+            "checkout"
+          ]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080"
+    }
+  ]
+}
