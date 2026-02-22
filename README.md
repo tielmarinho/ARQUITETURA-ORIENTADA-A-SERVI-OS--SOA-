@@ -100,7 +100,7 @@ Especialista em Arquitetura de Software, Sistemas Distribuídos e Boas Práticas
 Atua conectando teoria acadêmica com desafios reais do mercado.
 
 🔗 Conecte-se no LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salatiel-arquitetura-software)
+https://linkedin.com/in/salatiel-arquitetura-software
 
 ---
 
