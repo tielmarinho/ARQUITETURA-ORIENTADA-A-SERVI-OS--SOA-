@@ -91,10 +91,16 @@ Este repositório será atualizado ao longo do semestre com:
 
 ---
 
-## 👨‍🏫 Professor
+## 👨‍🏫 Sobre o Professor
 
-Salatiel Marinho - linkedin.com/in/salatiel-arquitetura-software 
-Engenharia de Software  
+**Salatiel Marinho**  
+Arquiteto de Software | Professor de Engenharia de Software  
+
+Especialista em Arquitetura de Software, Sistemas Distribuídos e Boas Práticas de Engenharia.  
+Atua conectando teoria acadêmica com desafios reais do mercado.
+
+🔗 Conecte-se no LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salatiel-arquitetura-software)
 
 ---
 
