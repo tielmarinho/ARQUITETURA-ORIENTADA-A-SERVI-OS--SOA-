@@ -1,0 +1,12 @@
+Reflexão:
+
+Podemos trocar ConsoleUI por uma API REST?
+Podemos trocar NumeroService por um serviço externo?
+ScoreService poderia usar banco de dados?
+E se NumeroService fosse um WebService SOAP?
+
+Desafio:
+
+Criar interface INumeroService
+Injetar a implementação via construtor
+Propor melhorias na estrutura/desenvolvimento do código
